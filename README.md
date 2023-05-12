@@ -1,9 +1,5 @@
 The `eth-faucet` is a developer tool to get testnet Ether (ETH) in order to test and troubleshoot your decentralized application (DApp) before going live on Ethereum mainnet, where you must use real ETH.
 
-![Screenshot](./screenshot.png)
-
-Live version: **[eth-faucet-alpha.vercel.app](https://eth-faucet-alpha.vercel.app)**
-
 ## Getting Started
 
 1. First, create a new Ethereum wallet:
